@@ -1,4 +1,4 @@
-# projeto MongoDB Commerce!
+# Projeto MongoDB Commerce!
 
 Projeto de MongoDB desenvolvido durante o módulo de back-end do curso da Trybe. Esse projeto tinha como objetivo aplicar os conhecimentos de MongoDB.
 
