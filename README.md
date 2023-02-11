@@ -1,8 +1,11 @@
-# Boas-vindas ao repositório do projeto MongoDB Commerce!
+# projeto MongoDB Commerce!
 
 Projeto de MongoDB desenvolvido durante o módulo de back-end do curso da Trybe. Esse projeto tinha como objetivo aplicar os conhecimentos de MongoDB.
 
 "Nesse projeto, você vai trabalhar com o banco de dados `commerce`, que contém dados do cardápio do **McDonald's**, como ingredientes, valores nutricionais e dados fictícios de vendas. As instruções de como restaurar o banco podem ser lidas a seguir."
+
+## Importante:
+  Nesse projeto <strong>eu</strong> apenas desenvolvi os arquivos <strong>"desafioN.js"</strong> que se encontram no diretório <strong>challenges/</strong>
 
 
 
