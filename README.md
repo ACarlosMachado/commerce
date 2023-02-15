@@ -7,56 +7,7 @@ Projeto de MongoDB desenvolvido durante o módulo de back-end do curso da Trybe.
 ## Importante:
   Nesse projeto <strong>eu</strong> apenas desenvolvi os arquivos <strong>"desafioN.js"</strong> que se encontram no diretório <strong>challenges/</strong>
 
-
-
-
 # Orientações
-<details>
-  <summary>
-    <strong>🎛 Linter</strong>
-  </summary><br>
-
-  Para fazer a análise estática do seu código neste projeto, vamos utilizar o linter [ESLint](https://eslint.org/). Assim o código estará alinhado com as boas práticas de desenvolvimento, sendo mais legível e de fácil manutenção!
-
-  ➡️ Este projeto já vem com as dependências relacionadas ao _linter_ configuradas no arquivo `package.json`.
-
-  ➡️ Para poder rodar o `ESLint` basta:
-
-  - Executar o comando `npm install` dentro do projeto e depois `npm run lint`.
-
-  - Se a análise do `ESLint` encontrar problemas no seu código, eles serão mostrados no seu terminal. 
-  - Se não houver problema no seu código, nada será impresso no seu terminal.
-
-  - Você pode também instalar o plugin do `ESLint` no `VSCode`. Para isso, bastar ir em extensions e baixar o [plugin `ESLint`](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
-
-  ⚠️ **Importante**: Pull Requests com issues de Linter não serão avaliadas. Atente-se para resolvê-las antes de finalizar o desenvolvimento.
-
-</details>
-
-<details>
-  <summary>
-    <strong>🛠 Testes</strong>
-  </summary><br>
-
-  - Para executar localmente os testes, é preciso estar na raiz do diretório do projeto e escrever o seguinte no seu terminal,:
-
-  ```sh
-  ./scripts/evaluate.sh
-  ```
-
-  👀 **De olho na dica**: esse script vai imprimir um relatório indicando se o teste passou ou não para cada desafio. Como a execução do script envolve restauração da base de dados `commerce` de um teste para outro, recomenda-se esperar pela sua execução completa.
-
-  - Para executar somente o teste de um desafio, execute o comando abaixo substituindo N pelo número do desafio
-
-  ```sh
-  ./scripts/evaluate.sh desafioN
-  ```
-
-  ⚠️**Importante**: como o banco de dados `commerce` é restaurado de um teste para outro durante a avaliação, **sempre use o banco restaurado na hora de fazer um desafio**. Veja a orientação ➡️ ♻️ Restaurando o banco de dados `commerce`.
-
-  ⚠️ **Importante**: o avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. Então, não se assuste se isso acontecer, ok?
-
-</details>
 
 <details>
   <summary>
